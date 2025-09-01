@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://github.com/davidrapu/blog-preview-card-challenge
+- Live Site URL: [Here](https://davidrapu.github.io/blog-preview-card-challenge/)
 
 ## My process
 
